@@ -1,1 +1,1 @@
-{"api_url":"https://api.133kan.com","sms_url":"https://sms.08bk.com","buy_url":"https://buy.133kan.com","yhq_url":"https://00ynf.com"}
+{"api_url":"https://api.ucdy.top","sms_url":"https://sms.ucdy.top","buy_url":"https://buy.ucdy.top","yhq_url":"http://xesxg.yhzu.cn/"}
