@@ -1,1 +1,1 @@
-{"api_url":"https://api.ucdy.top","sms_url":"https://sms.ucdy.top","buy_url":"https://buy.ucdy.top","yhq_url":"http://xesxg.yhzu.cn/?r=/nine"}
+{"api_url":"https://api.ucdy.top","sms_url":"https://sms.ucdy.top","buy_url":"https://buy.ucdy.top","yhq_url":"http://xesxg.yhzu.cn/?r=/nine","duokai":"6"}
