@@ -1,1 +1,1 @@
-{"api_url":"https://api.ucdy.top","sms_url":"https://sms.ucdy.top","buy_url":"https://buy.ucdy.top","yhq_url":"http://xesxg.yhzu.cn/?r=/nine","duokai":"6"}
+{"api_url":"https://api.zhaji.tk","sms_url":"https://zha.zhaji.tk","buy_url":"https://zha.zhaji.tk","yhq_url":"http://xesxg.yhzu.cn/?r=/nine","duokai":"6"}
